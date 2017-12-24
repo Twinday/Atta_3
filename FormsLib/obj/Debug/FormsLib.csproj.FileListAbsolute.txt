@@ -1,0 +1,14 @@
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\bin\Debug\FormsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\bin\Debug\FormsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\FormsLib\bin\Debug\FormsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\FormsLib\bin\Debug\FormsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.csprojResolveAssemblyReference.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.csproj.CoreCompileInputs.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\FormsLib\obj\Debug\FormsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\bin\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\FormsLib\bin\Debug\LogicsLib.pdb

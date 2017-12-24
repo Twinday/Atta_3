@@ -1,0 +1,18 @@
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\ConsoleLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\ConsoleLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\Tools.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\Tools.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.csprojResolveAssemblyReference.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.csproj.CoreCompileInputs.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\ConsoleLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\ConsoleLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\Tools.dll
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\Tools.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\obj\Debug\ConsoleLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\ConsoleLib\bin\Debug\LogicsLib.pdb

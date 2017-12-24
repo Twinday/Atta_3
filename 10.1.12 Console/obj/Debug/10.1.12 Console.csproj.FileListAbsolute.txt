@@ -1,0 +1,28 @@
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\10.1.12 Console.exe.config
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\10.1.12 Console.exe
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\10.1.12 Console.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\ConsoleLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\LogicsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\Tools.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\ConsoleLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\LogicsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\Tools.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.csprojResolveAssemblyReference.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.csproj.CoreCompileInputs.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.exe
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\10.1.12 Console.exe.config
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\10.1.12 Console.exe
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\10.1.12 Console.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\ConsoleLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\Tools.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\ConsoleLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\LogicsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\Tools.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.exe
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\obj\Debug\10.1.12 Console.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\FormsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12 Console\bin\Debug\FormsLib.pdb

@@ -1,0 +1,12 @@
+D:\Учеба\Моя практика по программированию\Atta_3\LogicsLib\bin\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\LogicsLib\bin\Debug\LogicsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\LogicsLib\bin\Debug\LogicsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\LogicsLib\bin\Debug\LogicsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.csprojResolveAssemblyReference.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.csproj.CoreCompileInputs.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\LogicsLib\obj\Debug\LogicsLib.pdb

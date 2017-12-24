@@ -1,0 +1,18 @@
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\Tools.dll
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\Tools.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\FormsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\FormsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.dll
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\Tools.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\Tools.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\FormsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\FormsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\Tools\obj\Debug\Tools.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\Tools\bin\Debug\LogicsLib.pdb

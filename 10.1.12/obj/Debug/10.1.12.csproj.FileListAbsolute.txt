@@ -1,0 +1,32 @@
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\10.1.12.exe.config
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\10.1.12.exe
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\10.1.12.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\_10._1._12.Form1.resources
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\_10._1._12.Properties.Resources.resources
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.csproj.GenerateResource.Cache
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.exe
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\LogicsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\LogicsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\FormsLib.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\Tools.dll
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\FormsLib.pdb
+D:\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\Tools.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\10.1.12.exe.config
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\10.1.12.exe
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\10.1.12.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\FormsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\LogicsLib.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\Tools.dll
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\FormsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\LogicsLib.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\bin\Debug\Tools.pdb
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.csprojResolveAssemblyReference.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\_10._1._12.Form1.resources
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\_10._1._12.Properties.Resources.resources
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.csproj.GenerateResource.Cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.csproj.CoreCompileInputs.cache
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.exe
+\\LAPTOP-PC\D (laptop)\Учеба\Моя практика по программированию\Atta_3\10.1.12\obj\Debug\10.1.12.pdb
